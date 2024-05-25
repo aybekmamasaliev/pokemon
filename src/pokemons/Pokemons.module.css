@@ -1,0 +1,22 @@
+.container{
+    padding: 1rem;
+    color: red;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    padding: 1rem;
+    background-color: aquamarine;
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+}
+
+.img{
+    width:30px;
+}
